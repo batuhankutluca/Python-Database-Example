@@ -1,4 +1,5 @@
-# Telegram Weather Bot
+# Python Database Example
+
 
 ### Proje ekibi:
 - [Ali Tolgahan Dikici](https://github.com/AliTolgahan)
